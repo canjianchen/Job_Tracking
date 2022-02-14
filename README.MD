@@ -3,7 +3,7 @@
 
 #### Track Your Job Search
 
-Project in Action - [Jobify](https://www.jobify.live/)
+Project in Action - [Jobify](https://http://www.jobify-ca.com/)
 
 
 #### Run The App Locally
